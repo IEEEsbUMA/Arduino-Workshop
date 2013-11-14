@@ -1,4 +1,4 @@
-Taller-Arduino
+Arduino-Workshop
 ==============
 
-Codigo fuente del taller de Arduino
+Source code for the workshop
